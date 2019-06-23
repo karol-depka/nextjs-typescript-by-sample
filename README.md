@@ -11,7 +11,7 @@ Topics covered in this sample:
 - Adding typescript support.
 - Adding navigation between pages.
 - Fetching data from a remote api (cors enabled).
-- Navigating to anoterh pages passing parameters via query string.
+- Navigating to other pages passing parameters via query string.
 - Creating clean urls (seo friendly).
 - CSS Styling: Thanks to [arp82](https://github.com/arp82) for this great contribution.
 
@@ -24,7 +24,7 @@ Topics that will be covered in future examples:
 
 # About Basefactor + Lemoncode
 
-We are an innovating team of Javascript experts, passionate about turning your ideas into robust products.
+We are an innovating team of JavaScript experts, passionate about turning your ideas into robust products.
 
 [Basefactor, consultancy by Lemoncode](http://www.basefactor.com) provides consultancy and coaching services.
 
